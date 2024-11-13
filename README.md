@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+If islands are not visible please visit this link:
+
+https://cors-anywhere.herokuapp.com
